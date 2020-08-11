@@ -1,0 +1,7 @@
+C:\Users\Polzovatel\source\repos\Normal-1_28\Normal-1_28\bin\Debug\Normal-1_28.exe.config
+C:\Users\Polzovatel\source\repos\Normal-1_28\Normal-1_28\bin\Debug\Normal-1_28.exe
+C:\Users\Polzovatel\source\repos\Normal-1_28\Normal-1_28\bin\Debug\Normal-1_28.pdb
+C:\Users\Polzovatel\source\repos\Normal-1_28\Normal-1_28\obj\Debug\Normal-1_28.csprojAssemblyReference.cache
+C:\Users\Polzovatel\source\repos\Normal-1_28\Normal-1_28\obj\Debug\Normal-1_28.csproj.CoreCompileInputs.cache
+C:\Users\Polzovatel\source\repos\Normal-1_28\Normal-1_28\obj\Debug\Normal-1_28.exe
+C:\Users\Polzovatel\source\repos\Normal-1_28\Normal-1_28\obj\Debug\Normal-1_28.pdb
